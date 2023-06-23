@@ -26,5 +26,4 @@ class AboutFragment : Fragment(R.layout.fragment_about) {
 
         binding.btnBack.setOnClickListener{findNavController().popBackStack()}
     }
-
 }
